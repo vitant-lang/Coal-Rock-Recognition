@@ -1,0 +1,3 @@
+lableme中勾选数据
+ 在datasets的before中 运行 json_to_dataset 修改 class 背景+1 放入voc中 使用vconartion x修改deeplab中的clas
+ modelpath 调用logs中的pth文件
