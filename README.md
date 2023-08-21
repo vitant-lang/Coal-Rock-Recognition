@@ -1,3 +1,7 @@
+# 有关环境配置
+## 推荐anaconda
+conda install --file requirements.txt
+py3.8 
 # Coal-Rock-Recognition
 # 模拟测试与振动传感器
 ![demo1](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/abeddd22-db85-4630-b8a9-bc84bfb84c4c)
@@ -15,7 +19,10 @@
 # 预估开采量
 ![预估开采量 00_00_00-00_00_30](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/116101c0-d059-4668-b1d5-815450ebfa58)
 
-
 # Reference
-## 训练过程可以参考B导 
+## 训练过程可以参考B导  dog.jpg
 https://github.com/bubbliiiing/deeplabv3-plus-pytorch#reference
+
+
+# 未来更新计划
+会放出加了eca cbam se的deeplabv3+和pspnet 
