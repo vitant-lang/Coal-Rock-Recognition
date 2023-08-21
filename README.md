@@ -16,3 +16,6 @@
 ![预估开采量 00_00_00-00_00_30](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/116101c0-d059-4668-b1d5-815450ebfa58)
 
 
+## Reference
+### 训练过程可以参考B导 
+https://github.com/bubbliiiing/deeplabv3-plus-pytorch#reference
