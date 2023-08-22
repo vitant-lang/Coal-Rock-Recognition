@@ -1,7 +1,7 @@
 # 有关环境配置
 ## 推荐anaconda
 conda install --file requirements.txt
-py3.8 
+
 # Coal-Rock-Recognition
 # 模拟测试与振动传感器
 ![demo1](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/abeddd22-db85-4630-b8a9-bc84bfb84c4c)
