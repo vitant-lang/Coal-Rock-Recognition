@@ -18,6 +18,8 @@ conda install --file requirements.txt
 ![文件夹遍历2 00_00_00-00_00_30](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/3cead8b7-37bf-4d1b-8355-b91cc71f6ddb)
 # 预估开采量
 ![预估开采量 00_00_00-00_00_30](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/116101c0-d059-4668-b1d5-815450ebfa58)
+# 硬件视频
+https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/7554925d-6c12-44a2-91d4-d3d10bccd31c
 
 # Reference
 ## 训练过程可以参考B导  dog.jpg
