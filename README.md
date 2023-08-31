@@ -6,6 +6,7 @@ conda install --file requirements.txt
 # 模拟测试与振动传感器
 ![demo1](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/abeddd22-db85-4630-b8a9-bc84bfb84c4c)
 ![demo2](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/ec48d4c3-538e-4f62-be85-3f921741fee1)
+## 振动传感器应该是配备在底下开采机器人当中的，次部分仅仅做为模拟。
 # 保存至本地xls
 ![save to xls ](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/d2776146-f17b-4e58-8708-8e8c1aa762ec)
 # 同步人员与煤炭数据
