@@ -1,5 +1,5 @@
 # 有关环境配置
-## 推荐anaconda
+## 推荐anaconda py3.7
 conda install --file requirements.txt
 
 # Coal-Rock-Recognition
