@@ -4,6 +4,7 @@ conda install --file requirements.txt
 网络架构是deeplabv3+
 # Coal-Rock-Recognition
 # 模拟测试与振动传感器
+传感器的型号是 正点原子的9050 6050也可以用，通过串口读取数据。
 ![demo1](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/abeddd22-db85-4630-b8a9-bc84bfb84c4c)
 ![demo2](https://github.com/vitant-lang/Coal-Rock-Recognition/assets/75409802/ec48d4c3-538e-4f62-be85-3f921741fee1)
 ## 振动传感器应该是配备在底下开采机器当中的，此部分仅仅做为模拟。
